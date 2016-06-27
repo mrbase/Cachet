@@ -189,6 +189,8 @@ return [
         'CachetHQ\Cachet\Foundation\Providers\RepositoryServiceProvider',
         'CachetHQ\Cachet\Foundation\Providers\RouteServiceProvider',
 
+        'Mrbase\CachetEventTests\ServiceProvider',
+
     ]),
 
     /*
